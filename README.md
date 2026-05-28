@@ -1,4 +1,8 @@
-# *Visualizing Multivariate Data and Models in R* <img src="images/cover/cover-peng.jpg" style="float:right; height:180px;" />
+<p>
+<img align="right" src="images/cover/cover-peng.jpg" height="180px">
+</p>
+
+# *Visualizing Multivariate Data and Models in R*
 
 This is the main repository for my book, _Visualizing Multivariate Data and Models in R_, to be published by Chapman & Hall, CRC press.
 
